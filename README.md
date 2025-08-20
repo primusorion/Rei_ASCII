@@ -19,7 +19,7 @@ Turn any image into detailed **color ASCII art**, complete with shading, ditheri
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/Rei-ASCII-CLI.git
+git clone https://github.com/primusorion/Rei_ASCII.git
 cd Rei-ASCII-CLI
 ```
 
